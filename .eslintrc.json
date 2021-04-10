@@ -25,6 +25,8 @@
     "prettier"
   ],
   "rules": {
+    "no-console": "off",
+    "camelcase": "off",
     "import/no-extraneous-dependencies": "off",
     "@typescript-eslint/no-empty-function": "off",
     "react/require-default-props": "off",
