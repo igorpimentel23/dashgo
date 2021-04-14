@@ -17,7 +17,7 @@ const theme = extendTheme({
   },
   fonts: {
     heading: 'Roboto',
-    body: 'ROboto',
+    body: 'Roboto',
   },
   styles: {
     global: {
